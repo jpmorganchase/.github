@@ -10,6 +10,6 @@ From [Advanced Messaging Queuing Protocol (AMPQ)](https://www.amqp.org/)- an ope
 
 At our GitHub here you will find our most recent projects and a pipeline to bring more to the community.
 
-As a FINOS platinum member we have contributed projects to FINOS such as [Perspective](https://github.com/finos/perspective) (an interactive analytics and data visualization component, which is especially well-suited for large and/or streaming datasets), are maintains and contributors in FINOS SIGS and Projects, and board members.
+As a FINOS platinum member we have contributed projects to FINOS such as [Perspective](https://github.com/finos/perspective) (an interactive analytics and data visualization component, which is especially well-suited for large and/or streaming datasets) We are maintains and contributors in [FINOS Projects](https://landscape.finos.org/), and FINOS board members.
 
 We welcome contributors!
