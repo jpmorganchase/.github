@@ -2,7 +2,7 @@
 
 ## Welcome to our project repos
 
-Here you will find JPMC projects that our developers have incubated and brought to the open source community. 
+Here you will find JPMC open source projects that our developers have incubated and brought to the open source community. 
 
 JPMC has a long history of building sucessful open source projects and open standards. 
 
