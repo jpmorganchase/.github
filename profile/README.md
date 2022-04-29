@@ -12,4 +12,4 @@ At our GitHub you will find our current JPMC sponsored projects and an active pi
 
 As a [FINOS](https://finos.org) platinum member we have contributed projects to FINOS such as [Perspective](https://github.com/finos/perspective) (an interactive analytics and data visualization component). We are maintainers and contributors in [FINOS Projects](https://landscape.finos.org/), and are a FINOS board member.
 
-If you are passionate abount open source, join us. Our open positions in Global Technology are on our [career site](https://careers.jpmorgan.com/)
+If you are passionate abount open source, join us. Open positions in Global Technology are on our [career site](https://careers.jpmorgan.com/)
