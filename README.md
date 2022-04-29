@@ -1,5 +1,7 @@
 # .github
-# Welcome to JPMorgan Chase & Co's GitHub Repositories. Open Source powers our company.
+# Welcome to JPMorgan Chase & Co's GitHub Repositories. 
+
+Open Source powers our company.
 
 Here you will find JPMC projects that our developers have incubated and brought to the open source community. 
 
