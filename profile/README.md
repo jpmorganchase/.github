@@ -1,4 +1,3 @@
-# .github
 # Welcome to JPMorgan Chase & Co's GitHub.
 
 ## Open Source powers JPMC
