@@ -12,7 +12,7 @@ From [Advanced Messaging Queuing Protocol (AMPQ)](https://www.amqp.org/) (an ope
 
 ### How to contribute to our projects
 
-Please refer to our [CONTRIBUTE.md](https://github.com/jpmorganchase/.github/CONTRIBUTING.md)
+Please refer to our [CONTRIBUTE.md](https://github.com/jpmorganchase/.github/blob/a55211fd14d3def510d88df0b1af0ee7fd6279f2/CONTRIBUTING.md)
 
 ### Follow us
 
