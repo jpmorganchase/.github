@@ -10,7 +10,7 @@ The contribution agreement can be found here [JPMC CLA](https://github.com/jpmor
 
 ## Code of Conduct
 
-JPMC's Open Source Projects operate under our [Code of Conduct](https://github.com/jpmorganchase/.github/blob/ba21fb280a4066265489e401a447be6a3a616f55/CODE_OF_CONDUCT.md) helping us maintain inclusive, healthy, and constructive communities
+JPMC's Open Source projects operate under our [Code of Conduct](https://github.com/jpmorganchase/.github/blob/ba21fb280a4066265489e401a447be6a3a616f55/CODE_OF_CONDUCT.md) helping us maintain inclusive, healthy, and constructive communities
 
 ## Code Reviews
 
