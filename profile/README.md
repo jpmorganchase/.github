@@ -6,7 +6,7 @@ Here you will find JPMC open source projects that our developers have incubated 
 
 ### What we do
 
-JPMC has a long history of building sucessful open source projects, forging open standards, and contributing to the open source community at large. 
+JPMC has a long history of building successful open source projects, forging open standards, and contributing to the open source community at large. 
 
 From [Advanced Messaging Queuing Protocol (AMPQ)](https://www.amqp.org/) (an open standard for passing business messages between applications or organization), to more recently [Quorum](https://consensys.net/quorum/products/) (an open-source protocol layer that enables enterprises to leverage Ethereum for their private or public production blockchain applications,  acquired by ConsenSys in Aug-2020), we are committed to open source.
 
@@ -24,6 +24,6 @@ As a [FINOS](https://finos.org) platinum member we have contributed and maintain
 
 ### Careers
 
-If you are passionate abount open source, join us. Open positions in Global Technology are on our [career site](https://careers.jpmorgan.com/)
+If you are passionate about open source, join us. Open positions in Global Technology are on our [career site](https://careers.jpmorgan.com/)
 
 Open Source @ JPMorgan Chase 2022
