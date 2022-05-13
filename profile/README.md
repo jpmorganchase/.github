@@ -24,6 +24,6 @@ As a [FINOS](https://finos.org) platinum member we have contributed and maintain
 
 ### Careers
 
-If you are passionate abount open source, join us. Open positions in Global Technology are on our [career site](https://careers.jpmorgan.com/)
+If you are passionate about open source, join us. Open positions in Global Technology are on our [career site](https://careers.jpmorgan.com/)
 
 Open Source @ JPMorgan Chase 2022
