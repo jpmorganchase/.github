@@ -1,6 +1,6 @@
 # Open Source powers JPMorgan Chase
 
-## Welcome to our opens source project repos
+## Welcome to our open source project repos
 
 Here you will find JPMC open source projects that our developers have incubated and brought to the open source community.
 
@@ -34,7 +34,7 @@ Here you will find JPMC open source projects that our developers have incubated 
 * J.P. Morgan Developer brings the best of the firm's technical capabilities available across our businesses.
 * The extensive catalogue of APIs, SDKs and other technical services empowers your developers, data-scientists, quants and other technologists to create unique solutions for your users.
 
-### JPMC @ FINOS
+### [JPMC @ FINOS](https://finos.org)
 
 * As a [FINOS](https://finos.org) platinum member we have contributed and maintain projects to FINOS such as [Perspective](https://github.com/finos/perspective) (an interactive analytics and data visualization component). We are maintainers and contributors in [FINOS Projects](https://landscape.finos.org/), and are a FINOS board members.
 
