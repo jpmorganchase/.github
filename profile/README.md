@@ -11,7 +11,7 @@ Here you will find JPMC open source projects that our developers have incubated 
 
 ### How to contribute to our projects
 
-* Refer to our [CONTRIBUTE.md](https://github.com/jpmorganchase/.github/blob/a55211fd14d3def510d88df0b1af0ee7fd6279f2/CONTRIBUTING.md) for how to contribute
+* Refer to our [CONTRIBUTE.md](https://github.com/jpmorganchase/.github/blob/main/CONTRIBUTING.md) for how to contribute
 
 ### Follow us
 
