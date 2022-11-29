@@ -16,4 +16,4 @@ JPMC's Open Source Project operate under our [Code of Conduct](https://github.co
 
 All submission to projects from any source require code review by project maintainers. We are using GitHub pull requests to enforce code reviews. For more information on GitHub pull requests see [GitHub docs](https://docs.github.com/)
 
-Open Source @ JPMorgan Chase 2022
+Open Source @ JPMorgan Chase
