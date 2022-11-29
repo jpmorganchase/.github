@@ -78,4 +78,4 @@ For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq
 
 
-Open Source @ JPMorgan Chase 2022
+Open Source @ JPMorgan Chase
