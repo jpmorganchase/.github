@@ -1,3 +1,3 @@
 # Community Content for JPMC
 
-Open Source @ JPMorgan Chase 2022
+Open Source @ JPMorgan Chase
