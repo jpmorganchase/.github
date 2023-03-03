@@ -24,6 +24,10 @@ Here you will find JPMC open source projects that our developers have incubated 
 
 * Check out our Technology at Our Firm site for how we do technology at JPMorganChase, including views on TechTrends, our Tech Blog, News, Publications, Open Source and information about our Teams 
 
+### [Global Technology Applied Research](https://www.jpmorgan.com/technology/applied-research)
+
+* The Global Technology Applied Research center at JPMorgan Chase & Co. designs and conducts research across multiple frontier technologies, in order to enable novel discoveries and inventions, and to inform and develop next-generation solutions for the firm’s clients and businesses. Areas of focus include the field of Quantum Technology, Augmented Reality and Virtual Reality, Cloud Networking, Internet of Things and Blockchain and Cryptography. Code associated with GTAR research can be found on this GitHub.
+
 ### [Developer/Chase](https://developer.chase.com)
 
 * Provides developers with custom banking APIs from Chase
@@ -34,6 +38,11 @@ Here you will find JPMC open source projects that our developers have incubated 
 * J.P. Morgan Developer brings the best of the firm's technical capabilities available across our businesses.
 * The extensive catalogue of APIs, SDKs and other technical services empowers your developers, data-scientists, quants and other technologists to create unique solutions for your users.
 
+### [Payments](https://www.jpmorgan.com/payments)
+
+* Secure your payments, facilitate capital transfers, manage your accounts, or find the answer to your unique challenge with flexible end-to-end solutions to address your evolving needs from J.P. Morgan Payments.
+* Explore our Open Source code samples and showcases [on our GitHub](https://github.com/jpmorganchase/payments)
+
 ### [JPMC @ FINOS](https://finos.org)
 
 * As a [FINOS](https://finos.org) platinum member we have contributed and maintain projects to FINOS such as [Perspective](https://github.com/finos/perspective) (an interactive analytics and data visualization component). We are maintainers and contributors in [FINOS Projects](https://landscape.finos.org/), and are a FINOS board members.
@@ -42,9 +51,4 @@ Here you will find JPMC open source projects that our developers have incubated 
 
 * If you are passionate about open source, join us. Open positions in Global Technology are on our [career site](https://careers.jpmorgan.com/)
 
-### [Payments](https://www.jpmorgan.com/payments)
-
-* Secure your payments, facilitate capital transfers, manage your accounts, or find the answer to your unique challenge with flexible end-to-end solutions to address your evolving needs from J.P. Morgan Payments.
-* Explore our Open Source code samples and showcases [on our GitHub](https://github.com/jpmorganchase/payments)
-
-**Open Source @ JPMorgan Chase 2022**
+**Open Source @ JPMorgan Chase 2023**
