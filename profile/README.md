@@ -1,6 +1,6 @@
 # Open Source powers JPMorgan Chase
 
-## Welcome to our open source project repos
+## Welcome to JPMC open source!
 
 Here you will find JPMC open source projects that our developers have incubated and brought to the open source community.
 
