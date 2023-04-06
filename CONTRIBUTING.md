@@ -6,7 +6,7 @@ We welcome your patches and enhancements to our projects. We have a few basic co
 
 We require all contributors to JPMC projects to complete our Contribution Licence Agreement (CLA). You can sign as an individual or as representing your company. You only need to do this once and it covers all current and future projects managed under our GitHub organization. 
 
-The contribution agreement can be found here [JPMC CLA](https://github.com/jpmorganchase/.github/blob/main/Contribution%20License%20Agreement%20(CLA)%20JPMC%202022.pdf), follow the instructions to complete and return to [opensource_cla@jpmorgan.com](mailto:opensource_cla@jpmorgan.com)
+The contribution agreement can be found here [JPMC CLA](jpmc-cla-20230406.md), follow the instructions to complete and return via email.
 
 ## Code of Conduct
 
