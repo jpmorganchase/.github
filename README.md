@@ -4,9 +4,9 @@ Open Source @ JPMorgan Chase
 
 ## Landing Page Content
 
-* readme.md
+* /profile/readme.md
 
 ## Standard Content for use in all JPMC repos
 
-*  Contribution
-*  Code of Conduct
+*  contributing.md
+*  code-of-conduct.md
