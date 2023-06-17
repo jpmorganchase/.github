@@ -27,7 +27,7 @@ Here you will find JPMC open source projects that our developers have incubated 
 
 ### [Global Technology Applied Research](https://www.jpmorgan.com/technology/applied-research)
 
-* The Global Technology Applied Research center at JPMorgan Chase & Co. designs and conducts research across multiple frontier technologies, in order to enable novel discoveries and inventions, and to inform and develop next-generation solutions for the firm’s clients and businesses. Areas of focus include the field of Quantum Technology, Augmented Reality and Virtual Reality, Cloud Networking, Internet of Things and Blockchain and Cryptography. Code associated with GTAR research can be found on this GitHub, using the "gt-applied-research" topic tag.
+* The Global Technology Applied Research center at JPMorgan Chase & Co. designs and conducts research across multiple frontier technologies, in order to enable novel discoveries and inventions, and to inform and develop next-generation solutions for the firm’s clients and businesses. Areas of focus include the field of Quantum Technology, Augmented Reality and Virtual Reality, Cloud Networking, Internet of Things and Blockchain and Cryptography. Code associated with GTAR research can be found on this GitHub, using the [gt-applied-research](https://github.com/search?q=org%3Ajpmorganchase+gt-applied-research) topic tag.
 
 ### [Developer/Chase](https://developer.chase.com)
 
