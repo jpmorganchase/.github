@@ -39,10 +39,10 @@ Here you will find JPMC open source projects that our developers have incubated 
 * J.P. Morgan Developer brings the best of the firm's technical capabilities available across our businesses.
 * The extensive catalogue of APIs, SDKs and other technical services empowers your developers, data-scientists, quants and other technologists to create unique solutions for your users.
 
-### [Payments](https://www.jpmorgan.com/payments)
+### [J.P. Morgan Payments](https://www.jpmorgan.com/payments)
 
 * Secure your payments, facilitate capital transfers, manage your accounts, or find the answer to your unique challenge with flexible end-to-end solutions to address your evolving needs from J.P. Morgan Payments.
-* Explore our Open Source code samples and showcases [on our GitHub](https://github.com/jpmorganchase/payments)
+* Explore our Open Source code samples and showcases [on our dedicated J.P. Morgan Payments GitHub](https://github.com/jpmorgan-payments)
 
 ### [JPMC @ FINOS](https://finos.org)
 
