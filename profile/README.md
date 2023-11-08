@@ -9,7 +9,7 @@ Here you will find JPMC open source projects that our developers have incubated 
 * JPMC has a long history of building successful open source projects, forging open standards, and contributing to the open source community at large. 
 * From [Advanced Messaging Queuing Protocol (AMQP)](https://www.amqp.org/) (an open standard for passing business messages between applications or organization), to more recently [Quorum](https://consensys.net/quorum/products/) (an open-source protocol layer that enables enterprises to leverage Ethereum for their private or public production blockchain applications,  acquired by ConsenSys in Aug-2020), and the projects you will find [here](https://jpmorganchase.github.io/), we are committed to open source.
 
-* Check out out pinned and most starred current projects below.
+* Check out our pinned and most starred current projects below.
 
 ### How to contribute
 
