@@ -28,20 +28,23 @@ Here you will find JPMC open source projects that our developers have incubated 
 
 ### [Global Technology Applied Research](https://www.jpmorgan.com/technology/applied-research)
 
-* The Global Technology Applied Research center at JPMorgan Chase & Co. designs and conducts research across multiple frontier technologies, in order to enable novel discoveries and inventions, and to inform and develop next-generation solutions for the firm’s clients and businesses. Areas of focus include the field of Quantum Technology, Augmented Reality and Virtual Reality, Cloud Networking, Internet of Things and Blockchain and Cryptography. Code associated with GTAR research can be found on this GitHub, using the [gt-applied-research](https://github.com/search?q=gt-applied-research&type=repositories) topic tag.
+* The [Global Technology Applied Research](https://www.jpmorgan.com/technology/applied-research) center at JPMorgan Chase & Co. designs and conducts research across multiple frontier technologies, in order to enable novel discoveries and inventions, and to inform and develop next-generation solutions for the firm’s clients and businesses. Areas of focus include the field of Quantum Technology, Augmented Reality and Virtual Reality, Cloud Networking, Internet of Things and Blockchain and Cryptography. Code associated with GTAR research can be found on this GitHub, using the [gt-applied-research](https://github.com/search?q=gt-applied-research&type=repositories) topic tag.
 
 ### [Developer/Chase](https://developer.chase.com)
 
+[Developer/Chase](https://developer.chase.com)
 * Provides developers with custom banking APIs from Chase
 * By leveraging Chase's banking APIs, our partners can develop financial products and services that offer digitally enriched customer experiences, and cater to the direct needs of each individual customer.
 
 ### [Developer/JPMorgan](https://developer.jpmorgan.com)
 
+[Developer/JPMorgan](https://developer.jpmorgan.com)
 * J.P. Morgan Developer brings the best of the firm's technical capabilities available across our businesses.
 * The extensive catalogue of APIs, SDKs and other technical services empowers your developers, data-scientists, quants and other technologists to create unique solutions for your users.
 
 ### [J.P. Morgan Payments](https://www.jpmorgan.com/payments)
 
+[J.P. Morgan Payments](https://www.jpmorgan.com/payments)
 * Secure your payments, facilitate capital transfers, manage your accounts, or find the answer to your unique challenge with flexible end-to-end solutions to address your evolving needs from J.P. Morgan Payments.
 * Explore our Open Source code samples and showcases [on our dedicated J.P. Morgan Payments GitHub](https://github.com/jpmorgan-payments)
 
@@ -51,6 +54,7 @@ Here you will find JPMC open source projects that our developers have incubated 
 
 ### [Global Technology Careers](https://careers.jpmorgan.com/)
 
+[Global Technology Careers](https://careers.jpmorgan.com/)
 * If you are passionate about open source, join us. Open positions in Global Technology are on our [career site](https://careers.jpmorgan.com/)
 
 **Open Source @ JPMorgan Chase 2023**
