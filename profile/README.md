@@ -24,7 +24,7 @@ Here you will find JPMC open source projects that our developers have incubated 
 
 ### [Technology at Our Firm](https://www.jpmorgan.com/technology)
 
-* Check out our Technology at Our Firm site for how we do technology at JPMorganChase, including views on TechTrends, our Tech Blog, News, Publications, Open Source and information about our Teams 
+* Check out our [Technology at Our Firm](https://www.jpmorgan.com/technology) site for how we do technology at JPMorganChase, including views on TechTrends, our Tech Blog, News, Publications, Open Source and information about our Teams 
 
 ### [Global Technology Applied Research](https://www.jpmorgan.com/technology/applied-research)
 
