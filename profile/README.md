@@ -57,4 +57,4 @@ Here you will find JPMC open source projects that our developers have incubated 
 [Global Technology Careers](https://careers.jpmorgan.com/)
 * If you are passionate about open source, join us. Open positions in Global Technology are on our [career site](https://careers.jpmorgan.com/)
 
-**Open Source @ JPMorgan Chase 2023**
+**Open Source @ JPMorgan Chase**
