@@ -77,5 +77,4 @@ https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq
 
-
 Open Source @ JPMorgan Chase
