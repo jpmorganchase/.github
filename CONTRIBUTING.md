@@ -1,6 +1,7 @@
 # How to contribute to JPMC projects
 
-We welcome your patches and enhancements to our projects. We have a few basic conditions for contributing below.
+ie
+we welcome your patches and enhancements to our projects. We have a few basic conditions for contributing below.
 
 ## Contributor Agreements
 
